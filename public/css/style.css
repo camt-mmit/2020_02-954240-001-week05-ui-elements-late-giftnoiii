@@ -1,0 +1,23 @@
+header
+{
+    text-decoration-color : green ;
+    text-align: center;
+}
+
+table 
+{
+    border-color: coral;
+    text-align: center;
+    align-content: center;
+}
+
+body
+{
+    text-align: center;
+}
+button {
+    color :darkgreen;
+}
+title{
+    color :darkgreen;
+}
